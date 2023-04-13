@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/diamond_ore", "weight": 2},
+      { "model": "custom:block/diamond_ore_two", "weight": 1 }
+    ]
+  }
+}

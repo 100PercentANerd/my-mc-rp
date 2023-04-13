@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/white_tulip", "weight":2 },
+      { "model": "custom:block/white_tulip_double_small", "weight":1},
+      { "model": "custom:block/white_tulip_double", "weight":1}
+    ]
+    }
+}
